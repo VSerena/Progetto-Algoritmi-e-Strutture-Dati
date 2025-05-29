@@ -6,6 +6,7 @@ Progetto didattico, sviluppato in Java, con l'obiettivo di progettare e implemen
 # 🌳 Progetto Albero Binario - Corso di Algoritmi e Strutture Dati
 
 Questo progetto didattico, sviluppato in Java, ha come obiettivo la progettazione e l'implementazione di una struttura dati ad **albero binario**.
+Il progetto è stato pensato per consolidare i concetti teorici appresi durante il corso, fornendo una solida base per lo studio di strutture dati più complesse.
 
 ---
 
@@ -15,11 +16,10 @@ Questo progetto didattico, sviluppato in Java, ha come obiettivo la progettazion
 ├── AlberoLf.java          # Classe che gestisce l'intera struttura dell'albero
 ├── NodoLf.java            # Classe che rappresenta un singolo nodo dell'albero
 ├── Run.java               # Classe con il metodo main per testare le funzionalità
-
 ````
 ---
 
-## 🔍 Funzionalità principali
+## Funzionalità principali
 
 * Creazione dinamica dell’albero
 * Inserimento di nuovi nodi
@@ -29,7 +29,7 @@ Questo progetto didattico, sviluppato in Java, ha come obiettivo la progettazion
 
 ---
 
-## 🚀 Esecuzione
+## Esecuzione
 
 ### Compilazione manuale
 
@@ -42,9 +42,3 @@ javac NodoLf.java AlberoLf.java Run.java
 ```bash
 java Run
 ```
-
----
-
-## 👩‍🏫 Finalità Didattica
-
-Il progetto è stato pensato per consolidare i concetti teorici appresi durante il corso, fornendo una solida base per lo studio di strutture dati più complesse.
